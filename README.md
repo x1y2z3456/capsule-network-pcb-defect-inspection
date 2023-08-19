@@ -83,7 +83,7 @@ To set up the development environment and run the code, follow these steps:
    set -g mouse on
    ```
    After that, you will be able to:
-   1. use tmux to split your command window vertically or horizontally, for example, `Ctrl + A + %` or `Crtl + A + "`.
+   1. use tmux to split your command window vertically or horizontally, for example, `Ctrl + A + %` or `Ctrl + A + "`.
    2. change the window by mouse click.
 
 ## Docker Images
