@@ -60,9 +60,9 @@ sudo docker rm $(docker ps -a -q)
 If you encounter any issues during setup or execution, please refer to the documentation or feel free to open an issue in this repository.
 
 ## Other Resources
-- [Official Example](https://keras.io/zh/examples/cifar10_cnn_capsule/) ( support tensorflow1.15- only )
+- [Official Example](https://keras.io/zh/examples/cifar10_cnn_capsule/) ( Support tensorflow1.15- only )
 - [COVID-CAPS](https://github.com/ShahinSHH/COVID-CAPS)
-- [New Official Example](https://github.com/keras-team/keras/pull/13620/files/940b724e9befa9389645bf8e6c353646c7fa2974) ( support tensorflow2.3+, I've used this to implement adamW optimizer, check my code if necessary. )
+- [New Official Example](https://github.com/keras-team/keras/pull/13620/files/940b724e9befa9389645bf8e6c353646c7fa2974) ( Support tensorflow2.3+, I've used this to implement adamW optimizer, check my code if necessary. )
 - [Reference Papers](https://hdl.handle.net/11296/45rdc4) ( Check my thesis reference )
 
 ## License
