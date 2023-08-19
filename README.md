@@ -32,13 +32,15 @@ To set up the development environment and run the code, follow these steps:
    cd capsule-network-for-pcb-defect-inspection
    ```
 
-3. Install the required dependencies ( based on Ubuntu ) :
+3. Install the required dependencies ( Based on Ubuntu ) :
+
    NVIDIA DRIVER:
    ```shell
    sudo apt install nvidia-driver-510
    # verify nvidia driver
    nvidia-smi
    ```
+
    Docker:
    ```shell
    sudo apt-get update
@@ -54,12 +56,14 @@ To set up the development environment and run the code, follow these steps:
    sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
    ```
    You may take a look at the [Docker documentation](https://docs.docker.com/engine/install/ubuntu/).
+   
    Tmux (one of my favorite) :
    ```shell
    sudo apt install tmux
    ```
+
    You may refer to my tmux configuration, rename the file name to .tmux.conf and place it under the home folder.
-   ```tmux conf
+   ```shell
    # set <prefix> key to C-a
    set-option -g prefix C-a
 
