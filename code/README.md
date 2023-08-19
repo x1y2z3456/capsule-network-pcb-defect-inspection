@@ -67,7 +67,7 @@ If you encounter any issues during setup or execution, please refer to the docum
 
 ## License
 
-This project is licensed under the [MIT License](./LICENSE). See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the [MIT License](../LICENSE). See the [LICENSE](../LICENSE) file for details.
 
 ---
 
