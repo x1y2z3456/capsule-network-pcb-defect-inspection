@@ -1,7 +1,9 @@
-# Thesis README
+# README
 
 ## Description
 Welcome to the README for my thesis project. This repository serves as a comprehensive guide to understand the purpose, goals, and technical aspects of my thesis research. Whether you're a fellow researcher, a student, or someone interested in the topic, this README will provide you with valuable insights.
+
+<img width="1146" alt="截圖 2024-03-28 晚上9 01 13" src="https://github.com/x1y2z3456/capsule-network-for-pcb-defect-inspection/assets/33689381/cb89f960-6c65-4a79-9c8e-8383b64278c3">
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -29,7 +31,7 @@ To set up the development environment and run the code, follow these steps:
 
 2. Navigate to the project directory:
    ```shell
-   cd capsule-network-for-pcb-defect-inspection
+   cd capsule-network-pcb-defect-inspection
    ```
 
 3. Install the required dependencies ( Based on Ubuntu ) :
