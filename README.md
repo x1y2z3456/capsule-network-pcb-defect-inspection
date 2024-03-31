@@ -26,7 +26,7 @@ To set up the development environment and run the code, follow these steps:
 
 1. Clone this repository:
    ```shell
-   git clone https://github.com/x1y2z3456/capsule-network-for-pcb-defect-inspection.git
+   git clone https://github.com/x1y2z3456/capsule-network-pcb-defect-inspection.git
    ```
 
 2. Navigate to the project directory:
@@ -108,7 +108,7 @@ sudo docker run -it 105552010/keras:v2.4.0 /bin/bash
 Once you have completed the installation, you can run model training script in container.
 
 ```shell
-sudo docker run --name=keras -v /home/user/capsule-network-for-pcb-defect-inspection/:/tmp --network=host -it 105552010/keras:v2.4.0 /bin/bash
+sudo docker run --name=keras -v /home/user/capsule-network-pcb-defect-inspection/:/tmp --network=host -it 105552010/keras:v2.4.0 /bin/bash
 cd /tmp
 cd 200x200
 python3 train_capsnet_latest15-200-full-size-da-densenet121-r8-reduce_lr-r6-r2.py
